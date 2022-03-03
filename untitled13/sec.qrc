@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>asc/1.jpg</file>
+        <file>asc/1.jpg.ascii.png</file>
+        <file>asc/ascii_art.py</file>
+        <file>asc/kangna.jpg</file>
+        <file>asc/kangna.jpg.ascii.png</file>
+        <file>asc/keli.jpg</file>
+        <file>asc/keli.jpg.ascii.png</file>
+        <file>asc/meimei.jpg</file>
+        <file>asc/meimei.jpg.ascii.png</file>
+        <file>asc/xiaogong.jpg</file>
+        <file>asc/xiaogong.jpg.ascii.png</file>
+    </qresource>
+</RCC>
